@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Mecca\Desktop\miscapps\imguiapps\myapplication\examples\example_win32_directx12\main.cpp(127,10): warning C4189: 'show_demo_window': local variable is initialized but not referenced
+C:\Users\Mecca\Desktop\miscapps\imguiapps\myapplication\examples\example_win32_directx12\main.cpp(128,10): warning C4189: 'show_another_window': local variable is initialized but not referenced
+  example_win32_directx12.vcxproj -> C:\Users\Mecca\Desktop\miscapps\imguiapps\myapplication\examples\example_win32_directx12\Debug\example_win32_directx12.exe
